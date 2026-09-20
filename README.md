@@ -195,3 +195,25 @@ A real deployment would require:
 **Syntax Squad — SIH 2026**
 
 Built as a prototype for demonstrating an AI/ML-assisted heavy rainfall and inundation early-warning workflow.
+
+<img width="1600" height="900" alt="Screenshot From 2026-09-21 00-56-10" src="https://github.com/user-attachments/assets/c6a3ebad-597c-4790-b574-080dee31ca78" />
+
+<img width="1600" height="900" alt="Screenshot From 2026-09-21 00-43-12" src="https://github.com/user-attachments/assets/065f927e-5000-45a5-8e4b-6a1527cb493a" />
+<img width="1600" height="900" alt="Screenshot From 2026-09-21 00-44-21" src="https://github.com/user-attachments/assets/565d9dfb-af82-4119-b1bf-3ab483ee4184" />
+<img width="1600" height="900" alt="Screenshot From 2026-09-21 00-44-28" src="https://github.com/user-attachments/assets/b1a5b361-0438-42f9-9a3e-3686dd012beb" />
+<img width="1600" height="900" alt="Screenshot From 2026-09-21 00-43-20" src="https://github.com/user-attachments/assets/f6afefac-4de3-41a1-a594-fa8caf22ce9a" />
+<img width="1600" height="900" alt="Screenshot From 2026-09-21 00-43-24" src="https://github.com/user-attachments/assets/02af80c8-a5ab-455d-b9b0-f89ec8c8eb2b" />
+
+<img width="1600" height="900" alt="Screenshot From 2026-09-21 00-43-28" src="https://github.com/user-attachments/assets/3feb78fc-3fcc-4c36-8c1c-bfc8d6eb6380" />
+<img width="1600" height="900" alt="Screenshot From 2026-09-21 00-43-35" src="https://github.com/user-attachments/assets/729e43aa-031d-487a-a8c6-9693386558cf" />
+<img width="1600" height="900" alt="Screenshot From 2026-09-21 00-43-38" src="https://github.com/user-attachments/assets/708f532b-3468-456a-8dac-aed157ddeb99" />
+<img width="1600" height="900" alt="Screenshot From 2026-09-21 00-43-42" src="https://github.com/user-attachments/assets/371c8b5e-0fa5-4d2b-8fc1-36117f82ae92" />
+<img width="1600" height="900" alt="Screenshot From 2026-09-21 00-43-45" src="https://github.com/user-attachments/assets/ccec2f3f-2616-4e6f-b11d-72f273970a92" />
+<img width="1600" height="900" alt="Screenshot From 2026-09-21 00-43-48" src="https://github.com/user-attachments/assets/480b3b10-d446-41e7-878e-53f7613e6838" />
+<img width="1600" height="900" alt="Screenshot From 2026-09-21 01-21-21" src="https://github.com/user-attachments/assets/f445e7ac-2621-4281-a550-b55a83f0de49" />
+
+
+
+
+
+
